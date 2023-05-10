@@ -14,9 +14,7 @@ pip install django<br/>
 pip install djangorestframework<br/>
 pip install djangorestframework_simplejwt<br/>
 
-Po zainstalowaniu paczek należy skonfigurować plik settings.py<br/>
-aby działał z naszą bazą danych, w tym celu należy widoczne poniżej pola ustawić zgodnie<br/>
-z naszą bazą PostgreSQL do której chcemy zapisywać dane.<br/>
+Po zainstalowaniu paczek należy skonfigurować plik settings.py aby działał z naszą bazą danych, w tym celu należy widoczne poniżej pola ustawić zgodnie z naszą bazą PostgreSQL do której chcemy zapisywać dane.<br/>
 ![obraz](https://github.com/Pivolt/DjangoRESTAPI/assets/131452769/f15d3659-f5ed-4332-8314-5fe66a32379a)<br/>
 Gdzie:<br/>
 Name -> nazwa naszej bazy danych<br/>
